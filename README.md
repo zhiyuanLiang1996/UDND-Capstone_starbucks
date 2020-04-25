@@ -35,6 +35,7 @@ The questions that guide my analysis are
 ## File Descriptions <a name="files"></a>
 - Starbucks_Capstone.ipynb: Notebook for the project
 - Starbucks_Capstone.pdf: pdf of the blog for the project
+- Who can get Starbuck coupons.html: html for the blog post
 
 ## Results<a name="results"></a>
 The main results can be seen from the Notebook and the write up and the notebook I post in this project
