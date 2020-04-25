@@ -37,7 +37,7 @@ The questions that guide my analysis are
 - Starbucks_Capstone.pdf: pdf of the blog for the project
 
 ## Results<a name="results"></a>
-The main results can be seen from the Notebook and the write up I post in this project
+The main results can be seen from the Notebook and the write up and the notebook I post in this project
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 The dataset is from Starbucks. The project orignates from Udacity course.
